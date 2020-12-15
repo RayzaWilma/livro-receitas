@@ -1,7 +1,6 @@
-#Strogonoff de Frango
+# Strogonoff de Frango
 
-
-##INGREDIENTES
+### INGREDIENTES
 
     meio quilo de carne em tiras finas (filé mignon, contra-filé)
     1 pitada de pimenta-do-reino
@@ -15,7 +14,7 @@
     2 colheres (sopa) de ketchup
     1 lata de NESTLÉ® Creme de Leite
 
-##MODO DE PREPARO
+### MODO DE PREPARO
 
     1    Em um recipiente, misture a carne com a pimenta-do-reino. 
     2    Em uma frigideira grande, derreta 2 colheres (sopa) da manteiga e doure a carne, aos poucos, em fogo alto. 
@@ -24,7 +23,7 @@
     5    Junte os champignons, tampe a frigideira e deixe por alguns minutos. Acrescente o purê de tomate, a mostarda e o catchup, misture bem. 
     6    Abaixe o fogo, deixe por cerca de 5 minutos, com a frigideira tampada. 
     7    Incorpore delicadamente o NESTLÉ Creme de Leite e retire do fogo antes de ferver. Sirva. 
-###DICA:
+### DICA:
     - Se desejar, substitua as tiras de carne por tiras de frango e utilize a mesma quantidade de MAGGI Caldo de Galinha. 
 	Utilize ainda camarrão e MAGGI Caldo de Legumes 
 
